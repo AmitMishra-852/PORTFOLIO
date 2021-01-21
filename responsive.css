@@ -1,0 +1,62 @@
+.upperarea{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.navbar {
+    margin-left: 3px;
+}
+.list li {
+    font-size: 13px;
+}
+.home .image img{
+    width:200px;
+    height: 250px;
+}
+.section1{
+    padding: 32px 19px
+}
+.section2{
+    padding: 32px 19px
+}
+.section3{
+    padding: 32px 19px
+}
+.headerpart1{
+    padding: 5px 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: justify;
+}
+.headerpart2{
+    padding: 5px 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.headerpart3
+{
+    padding: 5px 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.projectslink {
+    margin-top: 10px;
+    margin-left: 5px;
+}
+.basicinfo .infolist {
+    padding: 2px;
+}
+.basicinfo .infolist li {
+    padding: 5px;
+    font-size:13px;
+}
+.footer{
+    padding: 45px 10px
+}
